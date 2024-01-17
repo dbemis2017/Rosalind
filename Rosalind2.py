@@ -11,7 +11,7 @@ sentence = readfile2("rosalind_ini3.txt")
 
 print(sentence[a:(b + 1)], sentence[c:(d + 1)])
 
-# solution from u/axelwilhelm:
+# solution from u/axelwilhelm
 infile = open('rosalind_ini3.txt')
 string1 = infile.readline()
 string2 = infile.readline()
